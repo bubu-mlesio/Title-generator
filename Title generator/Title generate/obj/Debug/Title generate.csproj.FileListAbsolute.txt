@@ -1,0 +1,9 @@
+c:\users\jan drożak\documents\visual studio 2015\Projects\Title generate\Title generate\bin\Debug\Title generate.exe.config
+c:\users\jan drożak\documents\visual studio 2015\Projects\Title generate\Title generate\bin\Debug\Title generate.exe
+c:\users\jan drożak\documents\visual studio 2015\Projects\Title generate\Title generate\bin\Debug\Title generate.pdb
+c:\users\jan drożak\documents\visual studio 2015\Projects\Title generate\Title generate\obj\Debug\Title generate.csprojResolveAssemblyReference.cache
+c:\users\jan drożak\documents\visual studio 2015\Projects\Title generate\Title generate\obj\Debug\Title_generate.Form1.resources
+c:\users\jan drożak\documents\visual studio 2015\Projects\Title generate\Title generate\obj\Debug\Title_generate.Properties.Resources.resources
+c:\users\jan drożak\documents\visual studio 2015\Projects\Title generate\Title generate\obj\Debug\Title generate.csproj.GenerateResource.Cache
+c:\users\jan drożak\documents\visual studio 2015\Projects\Title generate\Title generate\obj\Debug\Title generate.exe
+c:\users\jan drożak\documents\visual studio 2015\Projects\Title generate\Title generate\obj\Debug\Title generate.pdb

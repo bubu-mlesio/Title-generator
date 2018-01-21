@@ -1,0 +1,19 @@
+C:\Users\Jan Drożak\documents\visual studio 2015\Projects\Title generate\Title generate\bin\Release\Title generate.exe.config
+C:\Users\Jan Drożak\documents\visual studio 2015\Projects\Title generate\Title generate\obj\Release\Title generate.csprojResolveAssemblyReference.cache
+C:\Users\Jan Drożak\documents\visual studio 2015\Projects\Title generate\Title generate\obj\Release\Title_generate.Form1.resources
+C:\Users\Jan Drożak\documents\visual studio 2015\Projects\Title generate\Title generate\obj\Release\Title_generate.Properties.Resources.resources
+C:\Users\Jan Drożak\documents\visual studio 2015\Projects\Title generate\Title generate\obj\Release\Title generate.csproj.GenerateResource.Cache
+C:\Users\Jan Drożak\documents\visual studio 2015\Projects\Title generate\Title generate\obj\Release\Title generate.exe
+C:\Users\Jan Drożak\documents\visual studio 2015\Projects\Title generate\Title generate\obj\Release\Title generate.pdb
+C:\Users\Jan Drożak\documents\visual studio 2015\Projects\Title generate\Title generate\bin\Release\Title generate.exe
+C:\Users\Jan Drożak\documents\visual studio 2015\Projects\Title generate\Title generate\bin\Release\Title generate.pdb
+C:\Users\BuBu Mlesio\Desktop\Projects\Title generate\Title generate\bin\Release\Title generate.exe.config
+C:\Users\BuBu Mlesio\Desktop\Projects\Title generate\Title generate\bin\Release\Title generate.exe
+C:\Users\BuBu Mlesio\Desktop\Projects\Title generate\Title generate\bin\Release\Title generate.pdb
+C:\Users\BuBu Mlesio\Desktop\Projects\Title generate\Title generate\obj\Release\Title generate.csprojResolveAssemblyReference.cache
+C:\Users\BuBu Mlesio\Desktop\Projects\Title generate\Title generate\obj\Release\Title_generate.Form1.resources
+C:\Users\BuBu Mlesio\Desktop\Projects\Title generate\Title generate\obj\Release\Title_generate.Properties.Resources.resources
+C:\Users\BuBu Mlesio\Desktop\Projects\Title generate\Title generate\obj\Release\Title generate.csproj.GenerateResource.Cache
+C:\Users\BuBu Mlesio\Desktop\Projects\Title generate\Title generate\obj\Release\Title generate.csproj.CoreCompileInputs.cache
+C:\Users\BuBu Mlesio\Desktop\Projects\Title generate\Title generate\obj\Release\Title generate.exe
+C:\Users\BuBu Mlesio\Desktop\Projects\Title generate\Title generate\obj\Release\Title generate.pdb
